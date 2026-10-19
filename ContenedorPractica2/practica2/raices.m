@@ -28,7 +28,7 @@ function [GRAV, MASA, TIEMPO, VEL] = constantes()
   GRAV   = 9.8;     % gravedad, m/s^2
   MASA   = 68.1;    % masa del paracaidista, kg
   TIEMPO = 10.0;    % tiempo de caída, s
-  VEL    = 40.0;    % velocidad medida, m/s
+  VEL    = 44.0;    % velocidad medida, m/s
 end
 
 % La función cuya raíz se busca: el coeficiente de arrastre c, en kg/s.
